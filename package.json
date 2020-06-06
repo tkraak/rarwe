@@ -47,5 +47,11 @@
   },
   "engines": {
     "node": "8.* || >= 10.*"
+  },
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^2.2.0",
+    "broccoli-postcss-single": "^4.0.1",
+    "broccoli-source": "^3.0.0",
+    "tailwindcss": "^1.4.6"
   }
 }
